@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+config.py
+тз.docx
+train.py
+creds.json
