@@ -1,6 +1,6 @@
 .idea/
 __pycache__/
-config.py
 тз.docx
 train.py
+config.py
 creds.json
