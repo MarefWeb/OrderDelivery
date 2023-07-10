@@ -1,11 +1,11 @@
-# Телеграм бот
-Бот для приёма и обработки заказов в телеграм.
-### Как работает бот?
-1. Клиент отвечает на вопросы бота.
+# Telegram bot
+Bot for receiving and processing orders in Telegram.
+### How does the bot work?
+1. The customer answers the bot's questions.
 
-2. После того, как клиент ответил на все вопросы бот отправляет оформленный вариант заказа в телеграм канал с администраторами и просит подожать клиента ответа.  
+2. After the customer has answered all the questions the bot sends the processed version of the order to the telegram channel with administrators and asks to wait for the customer to answer.  
 
-3. В канал приходит заказ и под ним две кнопки "принять" и "отклонить".  
+3. The channel receives the order and under it two buttons "accept" and "reject".  
 
-4. A). При клике на кнопку "принять" все данные заказа заносяться в гугл таблицу и клиенту приходит сообщение о том, что заказ был принят.  
-B). При клике на кнопку "отклонить" заказ удаляется из чата и клиенту приходит сообщение об отказе.  
+4. A). When clicking on the "accept" button, all the order data is entered into the google table and the client receives a message that the order has been accepted.  
+B). When clicking on the "reject" button, the order is deleted from the chat and the client receives a message about rejection.  
